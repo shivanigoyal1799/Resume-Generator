@@ -1,0 +1,22 @@
+/* body{
+    background: linear-gradient(to right,rgba(204, 93, 130, 0.651),rgba(20, 20, 139, 0.411)); 
+} */
+
+.bg-color{
+    background: linear-gradient(to bottom,rgb(204, 74, 255),white);
+}
+
+
+#resume-template{
+    display: none;
+}
+
+.img-css{
+    border:2px solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px
+}
+.grey-color{
+    background-color: rgb(235, 235, 235);
+}
